@@ -1,0 +1,74 @@
+{
+    "classData": [
+        {
+            "id": 1,
+            "classTitle": "Artificer",
+            "hitDice": 8
+          },
+          {
+            "id": 2,
+            "classTitle": "Barbarian",
+            "hitDice": 12
+          },
+          {
+            "id": 3,
+            "classTitle": "Bard",
+            "hitDice": 8
+          },
+          {
+            "id": 4,
+            "classTitle": "Blood Hunter",
+            "hitDice": 10
+          },
+          {
+            "id": 5,
+            "classTitle": "Cleric",
+            "hitDice": 8
+          },
+          {
+            "id": 6,
+            "classTitle": "Druid",
+            "hitDice": 8
+          },
+          {
+            "id": 7,
+            "classTitle": "Fighter",
+            "hitDice": 10
+          },
+          {
+            "id": 8,
+            "classTitle": "Monk",
+            "hitDice": 8
+          },
+          {
+            "id": 9,
+            "classTitle": "Paladin",
+            "hitDice": 10
+          },
+          {
+            "id": 10,
+            "classTitle": "Ranger",
+            "hitDice": 10
+          },
+          {
+            "id": 11,
+            "classTitle": "Rogue",
+            "hitDice": 8
+          },
+          {
+            "id": 12,
+            "classTitle": "Sorcerer",
+            "hitDice": 6
+          },
+          {
+            "id": 13,
+            "classTitle": "Warlock",
+            "hitDice": 8
+          },
+          {
+            "id": 14,
+            "classTitle": "Wizard",
+            "hitDice": 6
+          }
+    ]
+}
